@@ -125,12 +125,7 @@ FastAPI backend through to deployed, embeddable frontend widget.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahbaz-awan&show_icons=true&bg_color=00000000&title_color=00F6FF&text_color=0ABDC6&icon_color=00F6FF&border_color=00F6FF&hide_border=false&count_private=true" height="165" alt="github stats"/>
 <img src="https://streak-stats.demolab.com?user=shahbaz-awan&background=00000000&border=00F6FF&stroke=00F6FF&ring=00F6FF&fire=00F6FF&currStreakLabel=00F6FF&sideLabels=0ABDC6&currStreakNum=00F6FF&sideNums=0ABDC6&dates=0ABDC6&hide_border=false" height="165" alt="github streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-awan&layout=compact&bg_color=00000000&title_color=00F6FF&text_color=0ABDC6&border_color=00F6FF&hide_border=false" height="165" alt="top languages"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahbaz-awan&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="trophies"/>
 
 <br/>
 
