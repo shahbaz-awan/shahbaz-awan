@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0ABDC6,100:00F6FF&height=220&section=header&text=Muhammad%20Shahbaz%20Sarwar&fontSize=42&fontColor=00F6FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%94%20LLM%20Applications%2C%20RAG%20%26%20Backend%20Systems&descAlignY=55&descSize=18&descColor=0ABDC6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Muhammad%20Shahbaz%20Sarwar&fontSize=42&fontColor=00F6FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%94%20LLM%20Applications%2C%20RAG%20%26%20Backend%20Systems&descAlignY=55&descSize=18&descColor=0ABDC6" width="100%"/>
 
 <a href="https://github.com/shahbaz-awan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F6FF&background=00000000&center=true&vCenter=true&width=700&lines=root%40shahbaz-awan%3A~%24+whoami;Muhammad+Shahbaz+Sarwar+%E2%80%94+AI+Engineer;Building+RAG+pipelines+%2B+LLM+agents...;Status%3A+ONLINE+%7C+Open+to+freelance+%26+full-time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F6FF&background=000000&center=true&vCenter=true&width=700&lines=root%40shahbaz-awan%3A~%24+whoami;Muhammad+Shahbaz+Sarwar+%E2%80%94+AI+Engineer;Building+RAG+pipelines+%2B+LLM+agents...;Status%3A+ONLINE+%7C+Open+to+freelance+%26+full-time" alt="Typing SVG" />
 </a>
 
 </div>
@@ -125,7 +125,7 @@ FastAPI backend through to deployed, embeddable frontend widget.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shahbaz-awan&background=00000000&border=00F6FF&stroke=00F6FF&ring=00F6FF&fire=00F6FF&currStreakLabel=00F6FF&sideLabels=0ABDC6&currStreakNum=00F6FF&sideNums=0ABDC6&dates=0ABDC6&hide_border=false" height="165" alt="github streak"/>
+<img src="https://streak-stats.demolab.com?user=shahbaz-awan&background=000000&border=00F6FF&stroke=00F6FF&ring=00F6FF&fire=00F6FF&currStreakLabel=00F6FF&sideLabels=0ABDC6&currStreakNum=00F6FF&sideNums=0ABDC6&dates=0ABDC6&hide_border=false" height="165" alt="github streak"/>
 
 <br/>
 
@@ -153,6 +153,6 @@ FastAPI backend through to deployed, embeddable frontend widget.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F6FF,50:0ABDC6,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer" width="100%"/>
 
 </div>
