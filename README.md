@@ -132,6 +132,14 @@ FastAPI backend through to deployed, embeddable frontend widget.
 
 <img src="https://github-profile-trophy.vercel.app/?username=shahbaz-awan&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="trophies"/>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahbaz-awan/shahbaz-awan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahbaz-awan/shahbaz-awan/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/shahbaz-awan/shahbaz-awan/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <br/>
