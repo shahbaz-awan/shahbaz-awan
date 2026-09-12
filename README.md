@@ -57,7 +57,3 @@ the greedy Best-First baseline it's benchmarked against.
 <img src="https://streak-stats.demolab.com?user=shahbaz-awan&background=000000&border=00F6FF&stroke=00F6FF&ring=00F6FF&fire=00F6FF&currStreakLabel=00F6FF&sideLabels=0ABDC6&currStreakNum=00F6FF&sideNums=0ABDC6&dates=0ABDC6&hide_border=false" height="165" alt="github streak"/>
 
 </div>
-
-## Contact
-
-Email: shahbazsarwar585@gmail.com · [LinkedIn](https://www.linkedin.com/in/shahbaz-sarwar-awan-3483a8276/)
